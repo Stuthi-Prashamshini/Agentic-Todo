@@ -55,7 +55,7 @@ cd Agentic-Todo
 
 ## 📸 Screenshots
 
-![Todo App Screenshot](screenshot.png)
+![Todo App Screenshot](todoapp.png)
 
 ---
 
