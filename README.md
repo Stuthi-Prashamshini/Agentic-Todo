@@ -47,6 +47,18 @@ cd Agentic-Todo
 
 ---
 
+## 🌐 Live Demo
+
+👉 *(Add your GitHub Pages link here after enabling it)*
+
+---
+
+## 📸 Screenshots
+
+![Todo App Screenshot](screenshot.png)
+
+---
+
 ## 🌟 Future Improvements
 
 * Add AI-based task suggestions
