@@ -49,7 +49,7 @@ cd Agentic-Todo
 
 ## 🌐 Live Demo
 
-👉 *(Add your GitHub Pages link here after enabling it)*
+👉 [Click here to  view the app](https://stuthi-prashamshini.github.io/Agentic-Todo/)
 
 ---
 
